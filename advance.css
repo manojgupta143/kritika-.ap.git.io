@@ -1,0 +1,40 @@
+#google{
+    font-size: 50px;
+    margin-top: 100px;
+    color: fuchsia; text-align: center;
+}
+#advance{ height: 30px;
+    margin: left 40px;
+    margin-top: 10px;
+     width: 80%;
+    size: 40px;
+    border-top: solid rgb(247, 4, 4) 2px;
+    border-bottom: solid rgb(233, 5, 5) 2px;
+    border-right: solid red 2px;
+    border-left:solid red 2px;
+    
+    align-items: center;
+}
+.imagesearch{
+    width: 15%;
+    height: 25;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    margin-left: 520px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color:green;
+    border-top: solid black 2px;
+    border-bottom: solid black  2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    padding: 3px;
+    text-align: center;
+}
+.link3{
+    color: darkgreen; font-size: 30px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    float: left; margin-right: 5px;
+
+}

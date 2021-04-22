@@ -1,0 +1,89 @@
+#photo{
+    margin-left: 30%;
+    margin-right:0;
+    margin-top: 0px;
+    height: 400px;
+    width: 400px;
+    border-color: teal;border: 10px;
+    margin-bottom: 5px;
+}
+#info2{ margin-top: 0;
+    font-size: 30px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 90px;
+    width: 100%;
+    background-color: teal;
+    font-family: serif;padding: 10px;
+    color: white;
+}
+#head{
+    height: 50px;
+    font-size: 40px;
+    font-family: initial;
+    color: rgb(0, 255, 0); text-align: center;
+    margin: 0;
+    padding: top 6px;padding-bottom: 5px; background-color: darkviolet;
+}
+#input2{ height: 30px;
+    margin: left 40px;
+    margin-top: 10px;
+     width: 80%;
+    size: 40px;
+    border-top: solid rgb(247, 4, 4) 2px;
+    border-bottom: solid rgb(233, 5, 5) 2px;
+    border-right: solid red 2px;
+    border-left:solid red 2px;
+    
+    align-items: center;
+}
+.imagesearch{
+    width: 15%;
+    height: 25;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    border-top: solid black 2px;
+    border-bottom: solid black  2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    padding: 3px;
+    text-align: center;
+}
+#heading2{
+    color: blue;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+}
+.div{ height:50px;width: 100%;
+    font: size 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-right: 8px; border: top solid darkblue 3px;
+}
+.logo{
+    height: 40px;
+    width: 50px;
+    float: left;
+
+}
+.link2{
+    color: darkgreen; font-size: 25px;
+    margin-left: 10px;
+    font-family: sans-serif;
+
+
+}
+.link3{
+    color: darkgreen; font-size: 20px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
