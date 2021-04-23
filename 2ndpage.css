@@ -1,23 +1,26 @@
 #photo{
-    margin-left: 30%;
-    margin-right:0;
+    max-width: 500px;
+    margin-left: 35%;
+    margin: right 35%;
     margin-top: 0px;
-    height: 400px;
-    width: 400px;
+    height: 600px;
+    width: 500px;
     border-color: teal;border: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 5px; align-items: center;
 }
 #info2{ margin-top: 0;
     font-size: 30px;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    padding-top: 4px;
+    padding: bottom 5px;;
     padding-left: 5px;
     padding-right: 5px;
-    height: 90px;
+    max-height: 200px;
     width: 100%;
     background-color: teal;
     font-family: serif;padding: 10px;
     color: white;
+    position: relative;
+    margin-bottom: 5px;
 }
 #head{
     height: 50px;
@@ -30,7 +33,7 @@
 #input2{ height: 30px;
     margin: left 40px;
     margin-top: 10px;
-     width: 80%;
+    width: 85%;
     size: 40px;
     border-top: solid rgb(247, 4, 4) 2px;
     border-bottom: solid rgb(233, 5, 5) 2px;
@@ -40,7 +43,7 @@
     align-items: center;
 }
 .imagesearch{
-    width: 15%;
+    max-width: 200px;
     height: 25;
     margin-top: 5px;
     margin-left: 10px;
@@ -53,7 +56,7 @@
     border-left: solid black 2px;
     border-right: solid black 2px;
     padding: 3px;
-    text-align: center;
+    text-align: center; background-color: darkgreen;
 }
 #heading2{
     color: blue;
@@ -76,14 +79,20 @@
 
 }
 .link2{
-    color: darkgreen; font-size: 25px;
+    color: darkgreen; font-size: 30px;
     margin-left: 10px;
-    font-family: sans-serif;
+    font-family: sans-serif;font-style: italic;margin-bottom: 5px;
 
 
 }
 .link3{
-    color: darkgreen; font-size: 20px;
+    color: darkgreen; font-size: 30px; font-style: italic;
     margin-left: 10px;
     font-family: sans-serif;
+}
+.frame{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+    border: 2px solid goldenrod;
 }
