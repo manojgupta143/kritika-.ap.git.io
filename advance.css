@@ -3,41 +3,44 @@
     margin-top: 100px;
     color: fuchsia; text-align: center;
 }
-#advance{ height: 30px;
-    margin: left 40px;
-    margin-top: 10px;
-     width: 100%;
-     position: relative;
-    size: 40px;
-    border-top: solid rgb(247, 4, 4) 2px;
-    border-bottom: solid rgb(233, 5, 5) 2px;
-    border-right: solid red 2px;
-    border-left:solid red 2px;
-    align-items: center;
-    float: left;
+#advance{
+    background-color: #ffffff;
+    border: 3px solid rgb(75, 64, 64);
+    color: #08f728;
+    font-size: 30px;
+    height: 100%;
+    outline: none;
+    padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    position: relative;
+    width: 90%;
+    margin: right 50px;
+    border-radius: 16px;
+    margin-bottom: 10px;
 }
 .imagesearch{
+    height: 30px;
     width: 200px;
-    height: 45px;
-    margin-top: 15px;
-    margin-bottom: 10px;
-    margin-left: 35%;
-    margin-right: 30%;
-    font-size: 25px;font-style: italic;
-    font-family: sans-serif;
-    color:rgb(210, 224, 210);
-    background-color: green;
-    border-top: solid rgb(135, 231, 8) 5px;
-    border-bottom: solid rgb(179, 209, 9)  5px;
-    border-left: solid rgb(170, 240, 9) 5px;
-    border-right: solid rgb(188, 238, 6) 5px;
-    padding: 5px;
-    text-align: center; align-items: center;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 2px;
+    display: block;
+    background-color: darkgreen;
+    border-radius: 17px;
+    margin: auto;
 }
-.link3{
-    color: darkgreen; font-size: 30px;
-    margin-left: 10px;
-    font-family: sans-serif;
-    float: left; margin-right: 5px;
-
+.links4{
+    background-color:rgb(172, 224, 239);
+    float: left;
+    padding: 6px;
+    margin: 7px;
+    height: 36px;width: 183px;
+    color: rgb(191, 226, 191);font-size: 30px;
+    border-radius: 16px;
+}
+.links4 a:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;text-decoration: none;
 }
